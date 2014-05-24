@@ -1,4 +1,4 @@
-/* Test code for Shaun Houlihan/Nerds For Nature E-Chem toxic gas sensor board.
+/* Arduino test code for Shaun Houlihan/Nerds For Nature E-Chem toxic gas sensor board.
 Creative commons non-commercial/by attribution license
 written by Ken McGary and others where noted
 v0.1  1/21/2014 Initial testing of board, do I2C devices work?
